@@ -11,7 +11,7 @@
    
    - Five, that's pretty much it! Enjoy your day!
 
-     **If you're still confused, refer to [this example fork](https://github.com/anirudhsevugan/simpliplay-android-example-fork), it's [pull request](https://github.com/A-Star100/simpliplay-android/pull/2) and take a look at how it's structured**.
+     **If you're still confused, refer to [this example fork](https://github.com/anirudhsevugan/simpliplay-android-example-fork), it's [pull request](https://github.com/A-Star100/simpliplay-android/pull/2), and take a look at how it's structured**.
 
 ## About this branch
 This branch is for contributions to the source code. The source code should be read from the *main* branch. Any contributions, or modified versions of the same software will be here,
