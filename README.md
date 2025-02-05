@@ -48,7 +48,7 @@ It uses **Media 3 ExoPlayer**, something the App Inventor version would've been 
 
 ## Media3 Demo (Very Early Demo)
 > [!WARNING]
-> This version doesn't support media URLs or files, and serves as a demo in its purest form. This version is **no longer supported**, and will not recieve updates on further notice.
+> This version doesn't support media URLs or files, and serves as a demo in its purest form. It's also **no longer supported**, and will not recieve updates on further notice.
 
 The Media3 Demo was built in Android Studio using Kotlin, and uses the [Media3 Player](https://github.com/akhorasani/Media3Player) app by [@akhorasani](https://github.com/akhorasani) as a base for all Media3 support, and uses the traditional INTENT methods for URL redirects in Kotlin.
 
