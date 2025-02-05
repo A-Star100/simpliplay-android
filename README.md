@@ -21,7 +21,7 @@ The App Inventor version primarily uses the [ExoPlayer for App Inventor](https:/
 | OriginalToast | v2.2  |
 | Network | v2.4  |
 | UrsAI2KeepAwake | v2.5  |
-| GetMetrics | v2.5  |
+| ~~GetMetrics~~ | v2.5 - v4.4.3  |
 | CustomSpotlight | v3.1  |
 | ImageNotifier | v3.2.2 |
 | CustomDownloader | v3.4 |
