@@ -2,3 +2,5 @@ Since this is a native app, we're open to security enhancements. For any securit
 in this GitHub repository.
 
 **If *any* of your contributions contain malicious code, your contribution will be force-removed, and any pull requests that you make afterwards to this repository will be denied**.
+
+**You may NOT make pull requests containing malicious code, you may NOT redistribute modified versions of this app that are malicious,  you may NOT exploit the app and use it to attack people, and you may NOT do anything else that is considered malicious activity associated with this software**.
