@@ -1,7 +1,7 @@
 # contrib
 
 ## How to contribute
-   - First, create a new fork of the *contrib* branch of the repo. (Uncheck the box that says *Copy the main branch only*). Feel free to delete the main branch in your fork as long as       you only pull request to this branch. Any pull requests made to the main branch will be closed.
+   - First, create a new fork of the *contrib* branch of the repo. (Uncheck the box that says *Copy the main branch only*). Feel free to delete the main branch in your fork as long as       you only pull request to this branch. Any pull requests made to the main branch will be closed unless your contribution is significant enough to be added to the main app (for           example, a small change of the app's name isn't much of a contribution, but adding a new feature is a significant one, like adding support for files in playlists).
    
    - Second, create a new folder in your repo (don't delete existing folders as this can affect others' contributions). Then name the folder something like *[your-username]*. Inside         there should be a folder covering a major version of a series of your modification(s). For example, the first version should be a subfolder. Inside there will be folders for            patches (like one folder for 1.x and inside that a folder for 1.x.x). And avoid replacing older versions of your code unless you really need to (e.g, a critical bug), as it             keeps the history of your modifications inaccessible and less people can learn from what you did.
      
