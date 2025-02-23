@@ -33,13 +33,14 @@ It has been tested on the following devices with the following results:
 
 | Device | Compatible? | Real Device/VM |
 | -------- | ------- |  ------- |
-| Android 15  | Yes   |  VM     |
-| Android 14 | Yes  |   Real Device   |
-| Android 9 | Yes  |   VM   |
-| Android 8 | Yes  |   VM   |
-| Android 5 | **Partially**  |   VM   |
+| Android 15 (Pixel)| Yes   |  VM     |
+| Android 14 (Samsung)| Yes  |   Real Device   |
+| Android 11 (Xiaomi) | Yes  |   Real Device  |
+| Android 9 (Pixel)| Yes  |   VM   |
+| Android 8 (Pixel)| Yes  |   VM   |
+| Android 5 (Pixel)| **Partially**  |   VM   |
 
-*Android 5 does not support enough codecs, so only videos taken from the camera will play at all*.
+*Android 5 support may be broken on a real device, typically real devices have no issue like VMs, but you never know.*.
 
 ## Flutter Ver.
 The Flutter version was built in Android Studio with the Flutter plugin, and primarily relies on the video_player and chewie plugins, uses the keep_screen_on plugin to keep screen active when playing a video, uses the file_picker plugin to pick a media file on your device to play, and unlike the App Inventor version, uses a newer UI standard, which is rendered with [Skia](https://skia.org/), Material UI 2, instead of the App Inventor version's OG Material Design and UI 1.
