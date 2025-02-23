@@ -34,7 +34,7 @@ It has been tested on the following devices with the following results:
 | Device | Compatible? | Real Device/VM |
 | -------- | ------- |  ------- |
 | Android 15 (Pixel)| Yes   |  VM     |
-| Android 14 (Samsung)| Yes  |   Real Device   |
+| Android 14 (Samsung & Xiaomi)| Yes  |   Real Device   |
 | Android 11 (Xiaomi) | Yes  |   Real Device  |
 | Android 9 (Pixel)| Yes  |   VM   |
 | Android 8 (Pixel)| Yes  |   VM   |
