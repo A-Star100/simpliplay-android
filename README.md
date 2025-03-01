@@ -11,6 +11,8 @@ Looking for the **iOS** version? Check out [simpliplay-ios](https://github.com/A
 ## App Inventor Ver.
 The App Inventor version primarily uses the [ExoPlayer for App Inventor](https://github.com/zainulhassan815/exoplayer-appinventor) extension to create ExoPlayer initializations, and is a modified version of the 1.0.4 AIA version of the [ExoPlayer for App Inventor demo](https://github.com/zainulhassan815/exoplayer-appinventor/blob/v2.0/aia/exoplayer_v1.0.4.aia).
 
+**Some extensions used in the App Inventor version are *not* open source, while others are**.
+
 | Extensions | First Used |
 | -------- | ------- |
 | ExoPlayer for App Inventor  | v1 |
