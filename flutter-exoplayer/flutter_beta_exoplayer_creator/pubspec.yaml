@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  video_player: ^2.9.2  # Make sure to check for the latest version
+  video_player: ^2.9.3  # Make sure to check for the latest version
   chewie: ^1.8.5  # Optional, if you want to use a higher-level video player with controls
   keep_screen_on: ^3.0.0  # Add this line
   file_picker: ^8.1.7  # Use the latest version
