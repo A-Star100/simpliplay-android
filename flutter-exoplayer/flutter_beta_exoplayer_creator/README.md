@@ -2,6 +2,7 @@
 
 *(Previously known as media3_exoplayer_creator)*
 
-simpliplay-android's Flutter release supports Media3, uses chewie as a skin for the video_player package, and more. Read more about it [here](https://simpliplay.netlify.app/doc).
+simpliplay-android's Flutter release supports Media3, uses chewie as a skin for the video_player package, and more. Read more about it [here](https://simpliplay.netlify.app/doc) or
+at SimpliPlay's [documentation](https://simpliplay-docs.readthedocs.io/).
 
 
