@@ -8,3 +8,4 @@ Since I'm too tired to update this app anymore and I want to relax for a while. 
 5. Maybe, revamp the Flutter app to use flutter_vlc_player instead of video_player & chewie, because the current combination has many bugs to the point where normally unnecessary modifications needed to be made.
 6. Add support for URLs and files (as well as a wakelock) for the Kotlin Media3 demo (for that, please contribute [here](https://github.com/akhorasani/Media3Player), as the demo here is only a simple modification of that project.
 7. Make the UI more intuitive, right now it is a tiny bit clunky.
+8. Make sure the app properly detects which type of media was picked first out of URLs, files, and playlists (for ExoPlayer only, the others are fine).
