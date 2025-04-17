@@ -30,17 +30,20 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  video_player: ^2.9.3  # Make sure to check for the latest version
+  video_player: ^2.9.2  # Make sure to check for the latest version
   chewie: ^1.8.5  # Optional, if you want to use a higher-level video player with controls
   keep_screen_on: ^3.0.0  # Add this line
   file_picker: ^8.1.7  # Use the latest version
   permission_handler: ^11.3.1
   url_launcher: ^6.3.1
+  cupertino_icons: ^1.0.8
+  # Add this to control the status bar
 
+  http: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_launcher_icons: ^0.13.1
+  flutter_launcher_icons: ^0.14.3
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -64,11 +67,8 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
   assets:
-     - assets/ani.png
-     - assets/icon.png
-
+    - assets/icon.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
