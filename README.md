@@ -28,7 +28,7 @@ The App Inventor version primarily uses the [ExoPlayer for App Inventor](https:/
 | AltNotifier | v3.4 |
 | NotificationStyle | v3.4 |
 | TaifunClipboard | v4.3.1 |
-| GestureDetect | v4.6 |
+| ~~GestureDetect~~ | v4.6 (removed in v4.6.1) |
 
 It has been tested on the following devices with the following results:
 
