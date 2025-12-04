@@ -41,9 +41,10 @@ It has been tested on the following devices with the following results:
 | Android 9 (Pixel)| Yes  |   VM   |
 | Android 8 (Pixel)| Yes  |   VM   |
 | Android 5 (Pixel)| Yes (not too well on VMs)  |   VM   |
-| Android 4.4 and below (Samsung)| **NO - cannot even launch; even with removal of Android 5 minimum**  |   Real Device   |
+| Android 4.4 and below (Samsung)| **NO**  |   Real Device   |
 
 *Android 5 VMs have encoding issues that don't occur on real Android 5 devices. Real devices should play media properly*.
+**The app *CANNOT* be installed on Android 4.4 and below due to an installation minimum of Android 5+. But even after removing the limit, the app freezed every single time I attempted to launch it, so it is NOT compatible. It relies on ExoPlayer 2 at launch (initializes in the background for faster media loading), and since that always fails on Android 4.4 and below, the app does not work. And even if ExoPlayer 2 was in a separate screen, it would not work anyway due to the at-launch freeze when initializing it.**
 
 ## Flutter Ver.
 The Flutter version was built in Android Studio with the Flutter plugin, and primarily relies on the video_player and chewie plugins, uses the keep_screen_on plugin to keep screen active when playing a video, uses the file_picker plugin to pick a media file on your device to play, and unlike the App Inventor version, uses a newer UI standard, which is rendered with [Skia](https://skia.org/), Material UI 2, instead of the App Inventor version's OG Material Design and UI 1.
