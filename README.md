@@ -40,7 +40,8 @@ It has been tested on the following devices with the following results:
 | Android 11 (Xiaomi) | Yes  |   Real Device  |
 | Android 9 (Pixel)| Yes  |   VM   |
 | Android 8 (Pixel)| Yes  |   VM   |
-| Android 5 (Pixel)| **Partially**  |   VM   |
+| Android 5 (Pixel)| Yes (not too well on VMs)  |   VM   |
+| Android 4.4 and below (Samsung)| **NO - cannot even launch; even with removal of Android 5 minimum**  |   Real Device   |
 
 *Android 5 VMs have encoding issues that don't occur on real Android 5 devices. Real devices should play media properly*.
 
