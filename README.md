@@ -37,9 +37,11 @@ It has been tested on the following devices with the following results:
 | Android 16 (Samsung & Pixel)| Yes   |  Real Device & VM     |
 | Android 15 (Samsung & Pixel)| Yes  |   Real Device & VM   |
 | Android 14 (Samsung & Xiaomi)| Yes  |   Real Device   |
+| Android 13 (Samsung - LineageOS)| Yes  |   Real Device   |
 | Android 11 (Xiaomi) | Yes  |   Real Device  |
 | Android 9 (Pixel)| Yes  |   VM   |
 | Android 8 (Pixel)| Yes  |   VM   |
+| Android 7 (Samsung - LineageOS)| Yes  |   Real Device   |
 | Android 5 (Pixel)| Yes (not too well on VMs)  |   VM   |
 | Android 4.4 and below (Samsung)| **NO**  |   Real Device   |
 
