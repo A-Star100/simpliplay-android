@@ -1,7 +1,5 @@
-Since I'm too tired to update this app anymore and I want to relax for a while. (You can add these features and then [contribute back](https://github.com/A-Star100/simpliplay-android/blob/contrib/contrib/README.md))
-
 # Possible New Features
-1. Use Media3 instead of ExoPlayer2 (It's really annoying to migrate once you've settled in).
+1. Use Media3 instead of ExoPlayer2.
 2. Add support for files in playlists.
 3. Make sure that icons adapt to light and dark mode (whatever I try doesn't work).
 4. Make the app more lightweight. Right now, it's not the most lightweight or most fast video player app in the world.
