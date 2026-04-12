@@ -56,15 +56,4 @@ The Flutter version was built in Android Studio with the Flutter plugin, and pri
 
 It uses **Media 3 ExoPlayer**, something the App Inventor version would've been dreaming of, but it has less controls, however, as a result, this version is *much* more user-friendly, and uses only ExoPlayer. It does not support a quality selector, or advanced audio settings, but it supports everything else the App Inventor version does in the ExoPlayer point of view (P.O.V).
 
-## Media3 Demo (Very Early Demo)
-> [!WARNING]
-> This version doesn't support media URLs or files, and serves as a demo in its purest form. It's also **no longer supported**, and will not recieve updates on further notice.
-
-The Media3 Demo was built in Android Studio using Kotlin, and uses the [Media3 Player](https://github.com/akhorasani/Media3Player) app by [@akhorasani](https://github.com/akhorasani) as a base for all Media3 support, and uses the traditional INTENT methods for URL redirects in Kotlin.
-
-It, unlike the other 2 versions, is in a **very early** state right now and does not support video URLs (believe me, I tried, and failed), as of now. However, the placeholder video is the [Big Buck Bunny](https://peach.blender.org/) short film, stored in a GCP (Google Cloud Protocol) storage bucket.
-
-
-
-
 
