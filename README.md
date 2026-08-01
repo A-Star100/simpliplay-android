@@ -45,19 +45,17 @@ It has been tested on the following devices with the following results:
 | Android 8 (Pixel)| Yes  |   VM   |
 | Android 7 (Samsung - LineageOS)| Yes  |   Real Device   |
 | Android 5 (Pixel)| Yes (not too well on VMs)  |   VM   |
-| Android 4.4 and below (Samsung)| **NO**  |   Real Device   |
+| Android 4.4 and below (Samsung)| **No**  |   Real Device   |
 
 *Android 5 VMs have encoding issues that don't occur on real Android 5 devices. Real devices should play media properly*.
 
 
-**The app *CANNOT* be installed on Android 4.4 and below due to an installation minimum of Android 5+. But even after removing the limit, the app freezed every single time I attempted to launch it, so it is NOT compatible. It relies on ExoPlayer 2 at launch (initializes in the background for faster media loading), and since that always fails on Android 4.4 and below, the app does not work. And even if ExoPlayer 2 was in a separate screen, it would not work anyway due to the at-launch freeze when initializing it.**
+**The app *CANNOT* be installed on Android 4.4 and below due to an installation minimum of Android 5+. Just for test's sake, I removed the limit, and the app freezed every single time I attempted to launch it, so it is not compatible. It relies on ExoPlayer 2 at launch (initializes in the background for faster media loading), and since that always fails on Android 4.4 and below, the app does not work. And even if ExoPlayer 2 was intialized in a separate screen, it would still fail when navigating to said screen.**
 
 
-## Flutter Ver.
+## Flutter Ver. (deprecated and breaks on newer Android versions)
 [Located in this branch](https://github.com/A-Star100/simpliplay-android/tree/eol-source)
 
 The Flutter version was built in Android Studio with the Flutter plugin, and primarily relies on the video_player and chewie plugins, uses the keep_screen_on plugin to keep screen active when playing a video, uses the file_picker plugin to pick a media file on your device to play, and unlike the App Inventor version, uses a newer UI standard, which is rendered with [Skia](https://skia.org/), Material UI 2, instead of the App Inventor version's OG Material Design and UI 1.
 
 It uses **Media 3 ExoPlayer**, something the App Inventor version would've been dreaming of, but it has less controls, however, as a result, this version is *much* more user-friendly, and uses only ExoPlayer. It does not support a quality selector, or advanced audio settings, but it supports everything else the App Inventor version does in the ExoPlayer point of view (P.O.V).
-
-
