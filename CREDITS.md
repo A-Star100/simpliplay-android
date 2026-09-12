@@ -17,4 +17,4 @@
 | TaifunClipboard | v4.3.1 |
 | ~~GestureDetect~~ | v4.6 - v4.6.1 |
 **Thanks to everyone who created these extensions. Without them, SimpliPlay wouldn't have been possible.**
-**Some extensions used in the App Inventor version are *not* open source, while others are**.
+**Note that some extensions used in the App Inventor version are *not* open source, while others are**.
