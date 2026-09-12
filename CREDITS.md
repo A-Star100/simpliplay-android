@@ -6,7 +6,7 @@
 | ~~UpdateMyApp~~ | v1.4.1 - v3.3 |
 | UrsAI2SideBar | v2.0  |
 | OriginalToast | v2.2  |
-| Network | v2.4  |
+| ~~Network~~ | v2.4  |
 | UrsAI2KeepAwake | v2.5  |
 | ~~GetMetrics~~ | v2.5 - v4.4.3  |
 | CustomSpotlight | v3.1  |
