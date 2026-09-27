@@ -40,7 +40,7 @@ It has been tested on the following devices with the following results:
 | Android 14 (Samsung & Xiaomi)| Yes  |   Real Device   |
 | Android 13 (Samsung - LineageOS)| Yes  |   Real Device   |
 | Android 11 (Xiaomi) | Yes  |   Real Device  |
-| Android 9 (Pixel)| Yes  |   VM   |
+| Android 9 Go (AT&T)| Yes  |   Real Device   |
 | Android 8 (Pixel)| Yes  |   VM   |
 | Android 7 (Samsung - LineageOS)| Yes  |   Real Device   |
 | Android 5 (Pixel)| Yes (not too well on VMs)  |   VM   |
