@@ -1,6 +1,7 @@
 # simpliplay-android
+[![simpliplay](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)](https://play.google.com/store/apps/details?id=appinventor.ai_sonicforces207.simpliplay)
 > [!WARNING]
-> This README is old and contains a lot of old stuff. Also, this project is deemed pretty much finished.
+> This README is old and contains a lot of old stuff. Also, this project is deemed pretty much finished. Versions 4.8.3 and newer are on the Play Store.
 > Any new updates made will only really be UI changes at most.
 
 *(formerly known as ExoPlayer Creator)*
