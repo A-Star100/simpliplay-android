@@ -1,5 +1,5 @@
 # Possible New Features
-1. Use Media3 instead of ExoPlayer2.
+1. Use Media3 instead of ExoPlayer2 ([a new extension](zainulhassan815/exoplayer-appinventor-v3) has launched by the same guy who made the exoplayer-appinventor extension used here, maybe I can create a new version of the app and migrate :D).
 2. Add support for files in playlists.
 3. Make sure that icons adapt to light and dark mode (whatever I try doesn't work).
 4. Make the app more lightweight. Right now, it's not the most lightweight or most fast video player app in the world.
