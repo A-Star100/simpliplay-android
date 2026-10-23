@@ -1,4 +1,9 @@
 # Possible New Features (pretty much everything's been checked)
+## My real answer
+IDK (lol)
+(maybe background play for ExoPlayer2)
+
+## What used to be here
 1. <s>Use Media3 instead of ExoPlayer2 ([a new extension](zainulhassan815/exoplayer-appinventor-v3) has launched by the same guy who made the exoplayer-appinventor extension used here, maybe I can create a new version of the app and migrate :D).</s> **Not planning on migrating. For those who want to, there's a demo of the extension here for URLs and files [here](https://github.com/A-Star100/simpliplay-android/releases/tag/ai2-media3-1.0)**
 2. <s>Add support for files in playlists.</s> **Was added with the release of 5.0.0 using the Storage Access Framework!**
 3. <s>Make sure that icons adapt to light and dark mode (whatever I try doesn't work).</s> **Has been fixed since... shoot, I forgot, but I know it's fixed.**
