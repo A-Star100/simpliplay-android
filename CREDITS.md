@@ -16,8 +16,9 @@
 | NotificationStyle | v3.4 |
 | TaifunClipboard | v4.3.1 |
 | ~~GestureDetect~~ | v4.6 - v4.6.1 |
-| Sunny's SAF | v5.0 (coming soon :D) |
-| TaifunTools | v5.0 (coming soon :D) |
+| Sunny's SAF | v5.0 |
+| Sunny's ReceiveShared (modified so it only receives video and audio MIME types) | v5.0.1 |
+| TaifunTools | v5.0 |
 
 **HUGE thanks to everyone who created these extensions :D Without them, SimpliPlay wouldn't have been possible.**
 **Note that some extensions used in the App Inventor version are *not* open source, while others are**.
