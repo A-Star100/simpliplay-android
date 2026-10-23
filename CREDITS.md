@@ -17,7 +17,6 @@
 | TaifunClipboard | v4.3.1 |
 | ~~GestureDetect~~ | v4.6 - v4.6.1 |
 | Sunny's SAF | v5.0 |
-| [Sunny's ReceiveShared (modified for only video and audio MIME types)](https://drive.google.com/file/d/1c3co3CfbwPywESsLmM-xAXmLSn84jtJu/view?usp=sharing) | v5.0.1 |
 | TaifunTools | v5.0 |
 
 **HUGE thanks to everyone who created these extensions :D Without them, SimpliPlay wouldn't have been possible.**
