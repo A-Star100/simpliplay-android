@@ -1,6 +1,6 @@
 # Possible New Features (pretty much everything's been checked)
 1. <s>Use Media3 instead of ExoPlayer2 ([a new extension](zainulhassan815/exoplayer-appinventor-v3) has launched by the same guy who made the exoplayer-appinventor extension used here, maybe I can create a new version of the app and migrate :D).</s> **Not planning on migrating. For those who want to, there's a demo of the extension here for URLs and files [here](https://github.com/A-Star100/simpliplay-android/releases/tag/ai2-media3-1.0)**
-2. <sAdd support for files in playlists.</s> **Was added with the release of 5.0.0 using the Storage Access Framework!**
+2. <s>Add support for files in playlists.</s> **Was added with the release of 5.0.0 using the Storage Access Framework!**
 3. <s>Make sure that icons adapt to light and dark mode (whatever I try doesn't work).</s> **Has been fixed since... shoot, I forgot, but I know it's fixed.**
 4. Make the app more lightweight. Right now, it's not the most lightweight or most fast video player app in the world.
 5. <s>Maybe, revamp the Flutter app to use flutter_vlc_player instead of video_player & chewie, because the current combination has many bugs to the point where normally unnecessary modifications needed to be made.</s> **Flutter app is dead. RIP.**
