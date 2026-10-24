@@ -34,22 +34,3 @@ The App Inventor version primarily uses the [ExoPlayer for App Inventor](https:/
 | SAF (vknow360) | v5.0 |
 | TaifunTools | v5.0 |
 
-It has been tested on the following devices with the following results:
-
-| Device | Compatible? | Real Device/VM |
-| -------- | ------- |  ------- |
-| Android 16 (Samsung & Pixel)| Yes   |  Real Device & VM     |
-| Android 15 (Samsung & Pixel)| Yes  |   Real Device & VM   |
-| Android 14 (Samsung & Xiaomi)| Yes  |   Real Device   |
-| Android 13 (Samsung - LineageOS)| Yes  |   Real Device   |
-| Android 11 (Xiaomi) | Yes  |   Real Device  |
-| Android 9 Go (AT&T)| Yes  |   Real Device   |
-| Android 8 (Pixel)| Yes  |   VM   |
-| Android 7 (Samsung - LineageOS)| Yes  |   Real Device   |
-| Android 5 (Pixel)| Yes (not too well on VMs)  |   VM   |
-| Android 4.4 and below (Samsung)| **No**  |   Real Device   |
-
-*Android 5 VMs have encoding issues that don't occur on real Android 5 devices. Real devices should play media properly*.
-
-
-**The app *CANNOT* be installed on Android 4.4 and below due to an installation minimum of Android 5+. Just for test's sake, I removed the limit, and the app freezed every single time I attempted to launch it, so it is not compatible. It relies on ExoPlayer 2 at launch (initializes in the background for faster media loading), and since that always fails on Android 4.4 and below, the app does not work. And even if ExoPlayer 2 was intialized in a separate screen, it would still fail when navigating to said screen.**
