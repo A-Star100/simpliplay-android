@@ -18,6 +18,7 @@
 | ~~GestureDetect~~ | v4.6 - v4.6.1 |
 | Sunny's SAF | v5.0 |
 | TaifunTools | v5.0 |
+| AudioFocus | v5.1 |
 
 **HUGE thanks to everyone who created these extensions :D Without them, SimpliPlay wouldn't have been possible.**
 **Note that some extensions used in the App Inventor version are *not* open source, while others are**.
